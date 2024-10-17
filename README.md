@@ -1,1 +1,1 @@
-Repositório para armazenar primeiros projetos em python
+### Repositório para armazenar primeiros projetos em python.
